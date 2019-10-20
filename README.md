@@ -9,7 +9,7 @@
 ###        2.比較stack和queue 與linklist 差別
 ###        3.實作stack和queue
 ## 第三週:
-###        1.學習bubble sort 和 quick sort
+###        1.學習insert sort 和 quick sort
 ###        2.辨認兩種排序法差別與演算過程
 ###        3.個人手寫紀錄演算過程，並化為流程圖
 ## 第四週(國慶假日):
