@@ -14,7 +14,7 @@
 ###    2.排序=>將頂端的值與最後一個值互換，繼續讓目前位於頂端的新值進行heapify的動作
 
 ## 排序流程:
-###    <a href="https://ibb.co/fSWr7wL"><img src="https://i.ibb.co/fSWr7wL/unnamed.jpg" alt="unnamed" border="0"></a>
+###    <a href="https://ibb.co/fSWr7wL"><img src="https://i.ibb.co/4fL4xr3/unnamed.jpg" alt="unnamed" border="0" /></a>
 ### p.s上述流程圖以max heap作為範例
 
 
