@@ -17,3 +17,7 @@
 ## 第五週:
 ###        1. 學習heap sort 
 ###        2. 操作heap sort 演算過程
+## 第六週:
+###        1. 學習merge sort
+###        2. 操作merge sort 演算過程
+
