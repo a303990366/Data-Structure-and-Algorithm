@@ -3,7 +3,7 @@
 ### 又稱合併排序法，將問題拆解成子問題，將子問題分別處理再合併，就能夠解決原本的問題。
 ## 時間複雜度：NlogN
 ## 流程圖：
-
+<a href="https://ibb.co/Kw7xywm"><img src="https://i.ibb.co/M6pkN69/124-EA62-F-1043-4-CE7-A8-A5-318-F094972-AF.jpg" alt="124-EA62-F-1043-4-CE7-A8-A5-318-F094972-AF" border="0"></a>
 ## 程式實作概念：
 ### 1.因為要將大問題拆解子問題，又要將子問題拆解成更小的問題，拆到只剩兩個可以比較大小，那就會需要使用遞迴來減少重複撰寫程式碼的時間。
 ### 2.子問題間要比較大小，需要有一個比較大小並交換數值或是放進新陣列的函式
@@ -17,13 +17,13 @@
 ### 這次程式碼來源是經由老師merge sort簡報中的偽代碼，以那份偽代碼來建構我的程式，不得不說一下，偽代碼真的蠻好用的，雖然真正運行的程式碼可能因為設計者的想法所以會有些許改變但整體上相去不遠。
 ### (一開始程式)
 
-## 撰寫程式常見的錯誤:
-### 1.進行遞迴動作時出錯，顯示RecursionError: maximum recursion depth exceeded in comparison，雖然有查資料說import sys可以解決但是記得老師上課說過:「要是沒套件可用那麼你要怎麼辦」，所以就沒使用了，所以我一開始設計的程式碼也胎死腹中，就用偽代碼重新設計。
-### 2.執行merge區塊，這部分更常出錯，顯示IndexError: list index out of range。因為陣列常需要比大小，有時候條件如上述的文字說明沒限定清楚，也有時候是執行迴圈的次數算錯，導致報錯。
+###   撰寫程式常見的錯誤:
+###       1.進行遞迴動作時出錯，顯示RecursionError: maximum recursion depth exceeded in comparison，雖然有查資料說import sys可以解決但是記得老師上課說過:「要是沒套件可用那麼你要怎麼辦」，所以就沒使用了，所以我一開始設計的程式碼也胎死腹中，就用偽代碼重新設計。
+###       2.執行merge區塊，這部分更常出錯，顯示IndexError: list index out of range。因為陣列常需要比大小，有時候條件如上述的文字說明沒限定清楚，也有時候是執行迴圈的次數算錯，導致報錯。
 
 ### 在進入mergesort實作前，因為老師課堂上有講解，之後也認為概念蠻簡單的，但是一開始實作起來卡蠻久的，主要是卡在遞迴，後來逼不得已開spyder來偵錯（其實只是自己懶），但有spyder真的很方便。
 ### ---------------結束---------------
 ## 參考來源:
 ### 程式:資料結構與演算法_課堂簡報
-### 簡介: 1.資料結構與演算法_課堂簡報2. http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html
+### 內容: 1.資料結構與演算法_課堂簡報2. http://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html
 
