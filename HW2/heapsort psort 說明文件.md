@@ -40,3 +40,7 @@
 ### 至於排序的部分原本是想要用append丟進去一個額外設定的陣列，但是會產生由大至小的結果，所以改成用insert，在index=0插入數值，就能保證我們後丟進去的數值都能方在第一位。
 
 ### -----------結束-------------
+
+## 資料來源:
+## 程式：資料結構與演算法_heapsort 簡報
+## 文字介紹：1.資料結構與演算法_heapsort 簡報2.http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html
