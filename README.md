@@ -31,3 +31,4 @@
 ###        1.實作 binary search tree
 ## 第十週:
 ###        1.學習紅黑樹
+###        2.學習hash
