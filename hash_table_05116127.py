@@ -82,7 +82,10 @@ class MyHashSet:
                     cur=cur.next
 
 
-# In[ ]:
+##參考來源:
+##http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html
+##資料結構與演算法 Hash Table 老師簡報 
+
 
 
 
