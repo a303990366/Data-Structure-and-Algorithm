@@ -24,4 +24,4 @@
 ### 資料來源:
 #### http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html
 #### http://simonsays-tw.com/web/DFS-BFS/DepthFirstSearch.html
-#### 資料結構與演匴法上課簡報﹍depth first search 
+#### 資料結構與演算法上課簡報depth first search 
