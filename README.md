@@ -32,3 +32,7 @@
 ## 第十週:
 ###        1.學習紅黑樹
 ###        2.學習hash
+## 第十一週:
+###        1.學習Breadth first search       
+## 第十二週:
+###        1.學習depth first search      
