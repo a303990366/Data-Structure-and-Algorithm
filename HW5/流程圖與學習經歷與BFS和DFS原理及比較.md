@@ -3,7 +3,8 @@
 #### 在做這作業時，因為會需要用到之前所教的東西，所以又重新去複習queue和stack，也有上了leetcode去寫了，意外地很快就過關，發現自己程式撰寫能力進步蠻多的，也重看了leetcode自己之前寫過的queue的程式碼，發現我以前撰寫的跟現在相比雖然沒有差多少，但是邏輯上有更清晰的感覺。也發現最近程式建構的速度也比較快了，雖然還是有些部分沒有思考周全，產生程式的漏洞…
 
 ### 流程圖:
-
+<a href="https://ibb.co/GJJxMdj"><img src="https://i.ibb.co/KGG0s5H/IMG-1967.jpg" alt="IMG-1967" border="0"></a>
+<a href="https://ibb.co/7g4zLk0"><img src="https://i.ibb.co/PTQY0DV/IMG-1966.jpg" alt="IMG-1966" border="0"></a>
 #### BFS原理:
 #### 從圖的某一節點開始走訪，接著走訪此一節點所有相鄰且未拜訪過的節點，由走訪過的節點繼續進行先廣後深的搜尋。即把同一level的節點走訪完，再繼續向下一個深度搜尋，直到找到目的節點或遍尋全部節點。
 #### DFS原理:
