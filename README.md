@@ -39,43 +39,57 @@
 ###        1.學習link list 基本概念
 ###        2.複習class
 ###        3.實作link list
-###        
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p
+### 
 ## 第3週:
 ###        1.學習linklist的變形(stack and queue)
 ###        2.比較stack和queue 與linklist 差別
 ###        3.實作stack和queue
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第4週:
 ###        1.學習insert sort 和 quick sort
 ###        2.辨認兩種排序法差別與演算過程
 ###        3.個人手寫紀錄演算過程，並化為流程圖
+###        資料連結：1. https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p
+###                2. https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第5週(國慶假日):
 ###        1.實作 quick sort
 ## 第6週:
 ###        1. 學習heap sort 
 ###        2. 操作heap sort 演算過程
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第7週:
 ###        1. 學習merge sort
 ###        2. 操作merge sort 演算過程
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第8週：
 ###        1.學習 binary tree
 ###        2.實作 binary tree 
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第9週：
 ###        1.學習在aws建立虛擬機
 ###        2.學習區塊鏈的運作內涵與方式
 ###        3.學習binary search tree
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第10週:
 ###        1.實作 binary search tree
 ## 第11週:
 ###        1.學習紅黑樹
 ###        2.學習hash
+###        資料連結：1.https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p
+###                2.https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第12週:
-###        1.學習Breadth first search       
+###        1.學習Breadth first search      
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第13週:
-###        1.學習depth first search      
+###        1.學習depth first search   
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第14週:
 ###        1.學習Minimum Spaning Tree
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第15週:
 ###        1.學習shortest path
+###        資料連結：https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p
 ## 第16週:
 ###        1.聽同學的區塊鏈實作專題報告
 ## 第17週:
