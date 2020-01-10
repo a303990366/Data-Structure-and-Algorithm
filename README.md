@@ -1,3 +1,8 @@
+## 自我介紹：
+### 我的姓名是林庭嘉，目前就讀於東吳大學社工系，興趣領域為長期照護。
+### 為什麼修讀巨資相關課程:
+### 在本系修讀長照相關課程時發現，這領域對與科技的結合較差，所以我希望能夠培養自己成為一個既能夠了解長照業界需求以及有使用資訊工具的能力來讓長期照護這領域，能夠以較有效率的方式運作，期望藉此彌補現今照護領域的人力不足。
+
 ## 建立Data-Structure-and-Algorithm Repository目的
 ### 一開始會建立，主要是因為資料結構與演算法的課堂要求，記錄自己這學期在課堂上學了一些甚麼，未來可以用此作為審視個人能力的標準(?)
 ### 一學期過去了，我發現我已漸漸習慣用github記錄自己其他課堂的學習過程。
@@ -5,13 +10,28 @@
 ## 此Repository的檔案結構為:
 ### 1.HW1-HW6的學習內容
 #### ...HW1
+##### ....QuickSort.ipynb https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW1/QuickSort.ipynb
+##### ....QuickSort.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW1/QuickSort.md
 #### ...HW2
+##### ....heap_sort_05116127.py https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW2/heap_sort_05116127.py
+##### ....merge_sort_05116127.py https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW2/merge_sort_05116127.py
+##### ....heap_sort 說明文件.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW2/heap_sort_05116127.py
+##### ....merge_sort 說明文件.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW2/merge_sort_05116127.py
 #### ...HW3
-#### ...HW4
+##### ....binary_search_tree_05116127.py https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW3/binary_search_tree_05116127.py
+##### ....學習歷程與流程圖.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW3/學習歷程與流程圖.md
+##### ....說明文件.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW3/說明文件.md
+#### ...HW4 
+##### ....hash_table_05116127.py https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW4/hash_table_05116127.py
+##### ....hash 原理.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW4/hash%20原理.md
 #### ...HW5
+##### ....BFS_05116127.py https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW5/BFS_05116127.py
+##### ....流程圖與學習經歷與BFS和DFS原理及比較.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW5/流程圖與學習經歷與BFS和DFS原理及比較.md
 #### ...HW6
-
-## 2.README.md
+##### ....Dijkstra_05116127.py https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW6/Dijkstra_05116127.py
+##### ....Dijkstra與Kruskal原理說明、學習歷程、流程圖.md https://github.com/a303990366/Data-Structure-and-Algorithm/blob/master/HW6/Dijkstra與Kruskal原理說明、學習歷程、流程圖.md
+#
+#
 # Learning Note
 ## 第1週：
 ###        1.上課方式與計分說明
